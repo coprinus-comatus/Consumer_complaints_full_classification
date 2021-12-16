@@ -1,0 +1,19 @@
+SECTIONS
+{
+    @BODY(STANDARD,1 SCORE),
+    @TITLE(1 SCORE)
+}
+SCORES
+{
+	@VERY_LOW:1,
+	@LOW:3,
+	@NORMAL:10,
+	@HIGH:15,
+	@VERY_HIGH:25
+}
+
+SEGMENTS
+{
+    @SEGMENT1(1.0),
+    @SEGMENT2(1.0)
+}
