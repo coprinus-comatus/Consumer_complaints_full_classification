@@ -10,6 +10,7 @@ We allowed a multi-label classification, since the rules project is made to catc
 
 
 ## DOWNLOAD
+Please make sure you have a<a href='https://git-scm.com/book/en/v2/Getting-Started-Installing-Git'>Git</a> installed on your machine before going forward.
 You can download this folder, and then open it using expert.ai Studio IDE.
 If you don't already have the Studio plugin installed, please follow the <a href='https://docs.expert.ai/studio/latest/ide/?'>instructions</a>.
 You can also find the installer in <a href='https://developer.expert.ai/'>expert.ai developers' portal</a>. Please notice that you will need to create an account to access the portal.
